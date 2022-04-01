@@ -20,7 +20,7 @@ const SearchHeader = ({ onSearch }) => {
     <header className={styles.header}>
       <div className={styles.logo}>
         <img className={styles.img} src="/images/logo.png" alt="logo" />
-        <h1 className={styles.title}>J2K_Tube</h1>
+        <h1 className={styles.title}>NETFLIX_TUBE</h1>
       </div>
       <input
         ref={inputRef}
